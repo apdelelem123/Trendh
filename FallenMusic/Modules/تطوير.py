@@ -17,7 +17,7 @@ import aiohttp
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/94fa4bb62424ea712eaa2.jpg",
+        photo=f"https://graph.org/file/ff4448ad2c768f94cb77c.jpg",
         caption=f"""-| مطور السورس \n-| قناة المطور""",
         reply_markup=InlineKeyboardMarkup(
             [
