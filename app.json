@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المالك .",
-        "value": "1854384004",
+        "value": "6700336976",
         "required": true
       },
       "SESSION": {
@@ -38,12 +38,12 @@
       },
       "SUDO_USERS": {
         "description": "- ايدي المطور .",
-        "value": "",
+        "value": "6700336976",
         "required": true
       },
       "SUPPORT_CHAT": {
         "description": "- قناة المطور .",
-        "value": "https://t.me/xl444",
+        "value": "https://t.me/VVV5P",
         "required": false
       }
     },
